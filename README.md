@@ -9,7 +9,7 @@ Develop a Web page that is functionally similar to the FCC example reference pag
 
 ## Requirements
 
-* User Story: I can view a tribute page with an image and text about Matthew Walker's book *Why We Sleep*
+* User Story: I can view a tribute page with image and text content about Matthew Walker's book *Why We Sleep*
 
 * User Story: I can click on a link which will take me to another website with more information about this book and author.
 
