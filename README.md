@@ -1,7 +1,7 @@
 # fcc-tribute-page-project1
 First project in the Free Code Camp front-end certificate series - developing your own tribute page.  My tribute page is dedicated to a good night's sleep and Matthew Walker's new book - *Why We Sleep*
 
-The Tribute Page project will be completed following the guidelines proposed in P1xt's FCC Speedrun.  Following in their footsteps as I learn to set up some successful GitHub project routines of my own.
+The Tribute Page project will be completed following the guidelines proposed in P1xt's Chingu FCC Speedrun.  Following in their footsteps as I learn to set up some successful GitHub project routines of my own.
 
 ## Objective
 
