@@ -18,12 +18,12 @@ Develop a Web page that is functionally similar to the FCC example reference pag
 First steps:
 
 * Created a project sprint charter within GitHub to track task completion and entered all potential major milestones for completing the Tribute page project as a single sprint
-* Selected a topic: [Why We Sleep] (https://en.wikipedia.org/wiki/Why_We_Sleep:_The_New_Science_of_Sleep_and_Dreams)
-* Created a mockup for the tribute page in [Pencil] (https://pencil.evolus.vn/)
+* Selected a topic: [Why We Sleep](https://en.wikipedia.org/wiki/Why_We_Sleep:_The_New_Science_of_Sleep_and_Dreams)
+* Created a mockup for the tribute page in [Pencil](https://pencil.evolus.vn/)
 
 ## Mockups
 
-![Tribute Page Mockup] ()
+![Tribute Page Mockup](fcc-tribute-page-project1/Tribute page mockup.png)
 
 ---
 
