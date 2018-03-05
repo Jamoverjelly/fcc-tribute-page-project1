@@ -23,7 +23,7 @@ First steps:
 
 ## Mockups
 
-![Tribute Page Mockup](fcc-tribute-page-project1/Tribute page mockup.png)
+![Tribute Page Mockup](master/Tribute%20page%20mockup.png?raw=true)
 
 ---
 
