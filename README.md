@@ -23,7 +23,7 @@ First steps:
 
 ## Mockups
 
-![Tribute Page Mockup](master/Tribute%20page%20mockup.png)
+![Tribute Page Mockup](TributePageMockup.png?raw=true)
 
 ---
 
