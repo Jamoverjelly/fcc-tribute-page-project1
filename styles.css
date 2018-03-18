@@ -1,0 +1,97 @@
+/* Add home page CSS here */
+
+/* Start of structural design */
+.container {
+  width: 1407px;
+  height: 560px;
+  margin-left: auto;
+  margin-right: auto;
+  box-sizing: border-box;
+  /* background-color: lime; */
+}
+
+.header-box {
+  width: 1407px;
+  height: 50px;
+  padding-top: 20px;
+  text-align: center;
+  /* background-color: cyan; */
+}
+
+.text-area {
+  width: 50%;
+  float: left;
+  padding-right: 30px;
+  box-sizing: border-box;
+  /* background-color: red; */
+}
+
+.sidebar {
+    height: 480px;
+    width: 45%;
+    padding-top: 10px;
+    padding-left: 30px;
+    margin-right: auto;
+    float: left;
+    /* background-color: green; */
+}
+
+.favoriteQuote {
+  padding-top: 330px;
+  /* background-color: Lavender; */
+}
+
+footer {
+  text-align: center;
+}
+
+.fix {
+	clear: both;
+}
+
+.group:before,
+.group:after {
+	content: "";
+	display: table;
+}
+
+.group:after {
+	clear: both;
+}
+
+/* End of structural design, Text design below */
+
+h1 {
+  font-family:  'Merriweather', serif;
+  font-size: 36px;
+  font-weight: bold;
+  margin: 0;
+}
+
+h2 {
+  font-family: 'Merriweather', serif;
+  font-size: 12px
+  font-weight: bold;
+}
+
+.description {
+  font-family: 'Merriweather', serif;
+  font-size: 16px;
+}
+
+.quote {
+  font-family:  'Merriweather', serif;
+  font-style: italic;
+  font-size: 16px;
+}
+
+.authorName {
+  font-family:  'Merriweather', serif;
+  font-style: normal;
+  font-size: 16px;
+}
+
+footer {
+  font-family:  'Merriweather', serif;
+  font-size: 12px;
+}
